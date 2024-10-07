@@ -23,8 +23,14 @@ Custom_List_Generator is a simple Python script that allows users to create a li
 
 ## Usage
   Run the script in your terminal or command prompt:
+  ## For Integer list 
 ```bash
-python custom_list_generator.py
+python Custom_Integer_List_Generator.py
+```
+
+  ## For String list 
+```bash
+python Custom_String_List_Generator.py
 ```
 ## Follow the prompts to enter the number of values and the individual values.
 
