@@ -17,13 +17,15 @@ Custom_List_Generator is a simple Python script that allows users to create a li
    git clone https://github.com/AlenBluBerry/Custom_List_Generator.git
 
 2. Navigate to the project directory
-   cd Custom_List_Generator
+   ```bash
+
+    cd Custom_List_Generator
 
 ## Usage
   Run the script in your terminal or command prompt:
-
+```bash
 python custom_list_generator.py
-
+```
 ## Follow the prompts to enter the number of values and the individual values.
 
 ## Example
