@@ -31,9 +31,14 @@ python custom_list_generator.py
 ## Example
 
 Enter how many you need to store in the list: 3
+
+
 Enter the value: 10
+
 Enter the value: 20
+
 Enter the value: 30
+
 
 ## Output:
 
