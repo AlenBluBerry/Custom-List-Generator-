@@ -54,4 +54,4 @@ Enter the value: 30
 
 If you would like to contribute to this project, feel free to submit a pull request or open an issue.
 
-This version keeps the focus on usage and features without mentioning a license. You can always add a license later if you decide to use one. Let me know if you need any more help!
+This version keeps the focus on usage and features without mentioning a license. You can always add a license later if you decide to use one.
